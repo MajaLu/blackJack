@@ -3,7 +3,7 @@ body {
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 15px;
     color: white;
     text-align: center;
     letter-spacing: 2px;
@@ -29,20 +29,20 @@ input:hover {
 }
 
 #dealer-cards img {
-    height: 175px;
-    width: 125px;
-    margin: 1px;
+    height: 145px;
+    width: 95px;
+    margin: 2px;
 }
 
 #player-cards img {
-    height: 175px;
-    width: 125px;
-    margin: 1px;
+    height: 145px;
+    width: 95px;
+    margin: 2px;
 }
 
 #hit {
-    width: 100px;
-    height: 50px;
+    width: 80px;
+    height: 40px;
     font-size: 20px;
     border-radius: 8px;
     box-shadow: 0px 5px 10px 0px rgb(0, 0, 0.5);
@@ -54,8 +54,8 @@ input:hover {
 }
 
 #stay {
-    width: 100px;
-    height: 50px;
+    width: 80px;
+    height: 40px;
     font-size: 20px;
     border-radius: 8px;
     box-shadow: 0px 5px 10px 0px rgb(0, 0, 0.5);
