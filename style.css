@@ -29,14 +29,14 @@ input:hover {
 }
 
 #dealer-cards img {
-    height: 145px;
-    width: 95px;
+    height: 125px;
+    width: 75px;
     margin: 2px;
 }
 
 #player-cards img {
-    height: 145px;
-    width: 95px;
+    height: 125px;
+    width: 75px;
     margin: 2px;
 }
 
