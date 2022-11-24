@@ -23,6 +23,10 @@ p {
     margin-top: 10px;
 }
 
+h2 {
+    margin-top: 20px;
+}
+
 input:hover {
     background-color: white;
     transition: 0.3s;
